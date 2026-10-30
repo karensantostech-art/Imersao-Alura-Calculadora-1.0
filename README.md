@@ -1,4 +1,4 @@
-# 🧮 CalculaPy 1.0
+# 🧮 CalculaPy 1.0 - Calculadora em Python
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)
